@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "DealerConnect - Admin",
+    "slug": "dealer-connect-admin",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "backgroundColor": "#0B7B5E"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.dealerconnect.admin"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0B7B5E"
+      },
+      "package": "com.dealerconnect.admin"
+    }
+  }
+}
